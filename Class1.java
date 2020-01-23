@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Susanne McGinnis
  */
 
 public class Class1 {
@@ -14,5 +14,4 @@ public class Class1 {
     private void f3() {
         // v3.0
     }
-
 }
